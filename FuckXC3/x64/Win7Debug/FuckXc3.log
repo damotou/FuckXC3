@@ -1,0 +1,22 @@
+﻿E:\迅雷下载\FxxkXC3\FuckXC3\FuckXC3\FuckXc3.vcxproj(171,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+E:\迅雷下载\FxxkXC3\FuckXC3\FuckXC3\FuckXc3.vcxproj(305,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1815,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  Building 'FuckXc3' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Assembling diasmm.asm...
+  Assembling dpg.asm...
+  Assist.c
+  DisablePG.c
+  ProtectTools.c
+  SsdtHook.c
+  TpProtect.c
+  正在生成代码...
+  FuckXc3.vcxproj -> E:\迅雷下载\FxxkXC3\FuckXC3\x64\Win7Debug\FuckXc3.sys
+  FuckXc3.vcxproj -> E:\迅雷下载\FxxkXC3\FuckXC3\x64\Win7Debug\FuckXc3.pdb (Full PDB)
+E:\迅雷下载\FxxkXC3\FuckXC3\FuckXC3\FuckXc3.vcxproj(171,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+E:\迅雷下载\FxxkXC3\FuckXC3\FuckXC3\FuckXc3.vcxproj(305,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1815,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  Done Adding Additional Store
+  Successfully signed: E:\\FxxkXC3\FuckXC3\x64\Win7Debug\FuckXc3.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+E:\迅雷下载\FxxkXC3\FuckXC3\FuckXC3\FuckXc3.vcxproj(171,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.props”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+E:\迅雷下载\FxxkXC3\FuckXC3\FuckXC3\FuckXc3.vcxproj(305,5): warning MSB4011: 无法再次导入“C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets”。可能已在“C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1815,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。

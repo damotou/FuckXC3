@@ -1,0 +1,14 @@
+TraceEvent:	Verbose  : 03/22/2018 19:51:43
+TraceEvent:	Verbose  : Validating specified root directories.
+TraceEvent:	Verbose  : Adding specified solutions.
+TraceEvent:	Verbose  : The solution "E:\迅雷下载\FxxkXC3\FuckXC3\FuckXc3.sln" with full path "E:\迅雷下载\FxxkXC3\FuckXC3\FuckXc3.sln" was added to the list of solutions to upgrade.
+TraceEvent:	Verbose  : Adding solutions found under the specified root directories.
+TraceEvent:	Verbose  : Adding specified projects.
+TraceEvent:	Verbose  : Adding projects found under the specified solutions.
+TraceEvent:	Verbose  : The project with full path "E:\迅雷下载\FxxkXC3\FuckXC3\FuckXc3\FuckXc3.vcxproj" was referenced by solution "E:\迅雷下载\FxxkXC3\FuckXC3\FuckXc3.sln" and added to the list of projects to upgrade.
+TraceEvent:	Verbose  : Adding projects found under the specified root directories.
+TraceEvent:	Information  : Upgrading projects.
+TraceEvent:	Information  : Backup created at: E:\迅雷下载\FxxkXC3\FuckXC3\FuckXc3\FuckXc3.vcxproj.backup.
+TraceEvent:	Information  : Upgrading project "E:\迅雷下载\FxxkXC3\FuckXC3\FuckXc3\FuckXc3.vcxproj".
+TraceEvent:	Information  : Upgrade complete for project "E:\迅雷下载\FxxkXC3\FuckXC3\FuckXc3\FuckXc3.vcxproj".
+TraceEvent:	Information  : Projects upgraded.
